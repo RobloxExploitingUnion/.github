@@ -19,13 +19,13 @@ Our mission is to revolutionize the Roblox cheating scene by providing:
 **Projects**
 
 * [RENC](https://github.com/external-naming-convention/RobloxNamingStandard): An open-source cheat standard for Roblox Luau.
-* [Salad Executor](https://discord.gg/getsalad): A semi-open-source cheat for Roblox.
+* [riot.wtf](https://discord.gg/SgF3SgjMWh): A great cheat for Roblox.
 
 **Community**
 
-Join our community to stay up-to-date with the latest developments, share your ideas, and connect with fellow cheat enthusiasts!
+Join the Anarchy Softworks community to stay up-to-date with the latest developments, share your ideas, and connect with fellow cheat enthusiasts!
 
-* [Discord Server](https://discord.gg/nCBd22pNM4)
+* [Discord Server](https://discord.gg/RzKcjWqr79)
 
 **Contributing**
 
